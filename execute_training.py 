@@ -1,0 +1,10 @@
+import AZ
+
+#Correr esto para entrenar el algoritmo AlphaZero.
+
+def stop_condition(steps):
+    return True
+    
+if __name__ =="__main__":
+    algorithm = AZ.AlphaZero(stop_condition)
+    algorithm.training_phase()

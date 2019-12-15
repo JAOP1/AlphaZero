@@ -1,2 +1,2 @@
 # AlphaZero
-My version of AlphaZero.
+my interpretation of alphazero algorithm.

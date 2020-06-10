@@ -19,4 +19,4 @@ You have to modifie the path file and enjoy!
 python3 Player_vs_AI.py
 ```
 **Note:**
-Maybe it has several bugs. You should check detailed implementation.... (sorry! :sad: )
+Maybe it has several bugs. You should check detailed implementation.... (sorry! )
